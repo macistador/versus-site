@@ -1753,7 +1753,7 @@ label {
 }
 
 .boxed-container {
-	max-width: 1440px;
+	/*max-width: 1440px;*/
 	margin: 0 auto;
 	box-shadow: 0 20px 48px rgba(22, 30, 42, 0.16)
 }
